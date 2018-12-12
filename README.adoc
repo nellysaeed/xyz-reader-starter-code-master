@@ -9,5 +9,7 @@ Applying Material Design guidelines to a mobile application.
 Separating an interface into surfaces.
 Effectively using transitions and motion.
 
+= Screenshots
+
 ![xyz](https://user-images.githubusercontent.com/36165561/49886513-822bb800-fe42-11e8-87f5-ad06fdf2a75a.png)
 ![xyztwo](https://user-images.githubusercontent.com/36165561/49886515-82c44e80-fe42-11e8-8707-f964392945b8.png)
