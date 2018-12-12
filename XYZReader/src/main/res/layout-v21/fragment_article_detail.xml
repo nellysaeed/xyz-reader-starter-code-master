@@ -81,5 +81,4 @@
         app:layout_anchor="@id/toolbar_details"
         app:layout_anchorGravity="bottom|right|end"
         tools:background="?android:attr/selectableItemBackgroundBorderless" />
-
 </android.support.design.widget.CoordinatorLayout>

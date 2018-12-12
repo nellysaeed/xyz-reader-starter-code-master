@@ -47,7 +47,7 @@ public class ArticleDetailActivity extends AppCompatActivity
         mPager = (ViewPager) findViewById(R.id.pager);
         mScrollView = (NestedScrollView) findViewById(R.id.nestedScrollView);
         mPager.setAdapter(mPagerAdapter);
-        mPager.setOnPageChangeListener(new SimpleOnPageChangeListener() {
+        mPager.addOnPageChangeListener(new SimpleOnPageChangeListener() {
             @Override
             public void onPageScrollStateChanged(int state) {
                 super.onPageScrollStateChanged(state);
