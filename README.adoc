@@ -1,3 +1,13 @@
-= XYZ Reader Starter Code
+= XYZ Reader
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+XYZ Reader displays a list of articles that the user can read. As a part of Udacity's Android Developer Nanodegree, I redesigned the app to follow the Material Design guidelines and translated a set of static design mocks to a living and breathing app. The app including support for older API versions and features animations and transitions for devices higher than Lollipop.
+
+##Things I learned
+
+Understanding the fundamentals of Android design.
+Applying Material Design guidelines to a mobile application.
+Separating an interface into surfaces.
+Effectively using transitions and motion.
+
+![xyz](https://user-images.githubusercontent.com/36165561/49886513-822bb800-fe42-11e8-87f5-ad06fdf2a75a.png)
+![xyztwo](https://user-images.githubusercontent.com/36165561/49886515-82c44e80-fe42-11e8-8707-f964392945b8.png)
